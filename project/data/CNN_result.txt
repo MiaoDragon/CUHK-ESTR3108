@@ -1,0 +1,7 @@
+accuracy for step [10] 1.0
+accuracy for step [20] 1.0
+accuracy for step [30] 1.0
+accuracy for step [40] 1.0
+accuracy for step [50] 1.0
+accuracy for step [60] 1.0
+Testing Accuracy: 0.5
